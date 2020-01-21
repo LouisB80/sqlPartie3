@@ -1,3 +1,3 @@
-USE webDevelopment;
-ALTER TABLE frameworks
-ADD version INT;
+USE `webDevelopment`;
+ALTER TABLE `frameworks`
+ADD `version` INT;

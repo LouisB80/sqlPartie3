@@ -1,3 +1,3 @@
-USE webDevelopment;
-ALTER TABLE frameworks
-RENAME COLUMN "name" TO "framework";
+USE `webDevelopment`;
+ALTER TABLE `frameworks`
+RENAME COLUMN `name` TO `framework`;

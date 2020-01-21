@@ -1,3 +1,3 @@
-USE webDevelopment;
-ALTER TABLE languages
-RENAME COLUMN "versions" TO "version";
+USE `webDevelopment`;
+ALTER TABLE `languages`
+RENAME COLUMN `versions` TO `version`;

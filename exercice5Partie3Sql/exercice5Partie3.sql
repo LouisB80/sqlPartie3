@@ -1,3 +1,3 @@
-USE webDevelopment;
-ALTER TABLE frameworks
-ALTER COLUMN version VARCHAR(10);
+USE `webDevelopment`;
+ALTER TABLE `frameworks`
+MODIFY `version` VARCHAR(10);
